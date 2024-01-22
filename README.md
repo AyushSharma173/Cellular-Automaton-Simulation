@@ -20,3 +20,6 @@ Entropy is essentially a measure of how “random” a state is. The more random
 
 ![Screenshot](16EF5165-A931-45BA-B7B3-1FECCAB5A52D_1_105_c.jpeg)
 
+
+
+We can generalize our original lattice gas cellular automaton a bit by adding interactions between the atoms. This gives us a more realistic model of a gas. We can also look at how entropy increases in the interacting system and compare it with the entropy in the non-interacting system.
