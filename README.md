@@ -15,3 +15,8 @@ A nearest-neighbor site is one which is up, down, left, or right.
 swap those two sites (even if they are the same color).
 
 Entropy is essentially a measure of how “random” a state is. The more random a state, the more entropy it should have. A state where the “gas” is randomly placed is going to have the highest entropy. There are various ways then of measuring entropy. One approach is to take a configuration and ask how easy it is to compress it. If it compresses efficiently then it has low entropy. If it’s completely “random” then it’s hard to compress and has high entropy. After we’ve produced configurations (in memory or as a file), we can load the configuration using python, compress the state, and measure its size as a function of time. This will be our heurestic for the entropy of the state (if a state is very disordered, it should be hard to describe compactly).
+
+
+
+![Screenshot](16EF5165-A931-45BA-B7B3-1FECCAB5A52D_1_105_c.jpeg)
+
